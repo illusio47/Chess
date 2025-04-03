@@ -1,0 +1,76 @@
+Connected to database successfully.
+Found 10 doctors in the database:
+------------------------------------------------------
+Name: Dr. Michael Johnson
+Email: dr.johnson@palliative.com
+Specialization: Cardiologist
+Experience: 12 years
+Consultation Fee: $250.00
+------------------------------------------------------
+Name: Dr. James Anderson
+Email: james.anderson@example.com
+Specialization: Cardiology
+Experience: 20 years
+Consultation Fee: $250.00
+------------------------------------------------------
+Name: Dr. Maria Garcia
+Email: dr.garcia@palliative.com
+Specialization: ENT Specialist
+Experience: 7 years
+Consultation Fee: $180.00
+------------------------------------------------------
+Name: Dr. Emily Taylor
+Email: dr.taylor@palliative.com
+Specialization: Family Medicine
+Experience: 6 years
+Consultation Fee: $140.00
+------------------------------------------------------
+Name: Dr. James Brown
+Email: dr.brown@palliative.com
+Specialization: Gastroenterologist
+Experience: 11 years
+Consultation Fee: $210.00
+------------------------------------------------------
+Name: Dr. Sarah Smith
+Email: dr.smith@palliative.com
+Specialization: General Practitioner
+Experience: 8 years
+Consultation Fee: $150.00
+------------------------------------------------------
+Name: Dr. Li Chen
+Email: dr.chen@palliative.com
+Specialization: Infectious Disease
+Experience: 9 years
+Consultation Fee: $175.00
+------------------------------------------------------
+Name: Dr. Anita Patel
+Email: dr.patel@palliative.com
+Specialization: Neurologist
+Experience: 10 years
+Consultation Fee: $225.00
+------------------------------------------------------
+Name: Dr. John Smith
+Email: doctor@test.com
+Specialization: Oncology
+Experience: 15 years
+Consultation Fee: $250.00
+------------------------------------------------------
+Name: Dr. Robert Wilson
+Email: dr.wilson@palliative.com
+Specialization: Pulmonologist
+Experience: 15 years
+Consultation Fee: $200.00
+------------------------------------------------------
+
+Doctors by specialization:
+------------------------------------------------------
+Oncology: 1 doctor(s)
+Cardiology: 1 doctor(s)
+General Practitioner: 1 doctor(s)
+Cardiologist: 1 doctor(s)
+Neurologist: 1 doctor(s)
+Pulmonologist: 1 doctor(s)
+Infectious Disease: 1 doctor(s)
+ENT Specialist: 1 doctor(s)
+Gastroenterologist: 1 doctor(s)
+Family Medicine: 1 doctor(s)

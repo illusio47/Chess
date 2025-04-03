@@ -1,0 +1,27 @@
+admin
+admin@palliative.care		password
+kimibowah@admin.com		password
+
+
+
+
+
+doctor
+
+doctor@test.com			password
+
+
+
+
+service 
+
+pharmacy@test.com		password
+transport@palliative.com	password
+
+
+
+patient
+
+patient@test.com		password
+paulatreides@dune.com		Password1
+
